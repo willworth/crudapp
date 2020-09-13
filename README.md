@@ -1,3 +1,3 @@
 # Crud App
 
-This is a crud demo/ sandbox.
+This is a crud demo/sandbox.
